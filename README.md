@@ -1,4 +1,4 @@
-![](/pic_readme/logo.png)
+![](/pic_readme/logo.jpg)
 
 # ![](/pic_readme/1.jpg) Introduction
 สวัสดีครับ วันนี้กลุ่ม E-wall 
